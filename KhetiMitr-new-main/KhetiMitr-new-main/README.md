@@ -3,7 +3,6 @@
 ## Overview
 Friendly-Farming is a comprehensive platform designed to address various agricultural challenges faced by farmers and clients. The platform aims to enhance crop management, pest control, soil health, irrigation, and marketing, ultimately boosting agricultural productivity.
 
-![Alt text](KhetiMitr,UIUX.jpeg)
 
 ## Features
 KhetiMitr offers four core services:
@@ -129,7 +128,4 @@ streamlit run main.py
 In your web browser, you should see the application running with a sidebar offering different options (Home, About, Disease Recognition).
 Upload an image on the Disease Recognition page to test your model's prediction.
 
-## Contact
-
-For any inquiries or feedback, please contact us at [ivarungupta7@gmail.com](mailto:ivarungupta7@gmail.com).
 
