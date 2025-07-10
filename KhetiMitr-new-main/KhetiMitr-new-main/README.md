@@ -1,7 +1,7 @@
-# KhetiMitr (Updated)
+# Friendly-Farming (Updated)
 
 ## Overview
-KhetiMitr is a comprehensive platform designed to address various agricultural challenges faced by farmers and clients. The platform aims to enhance crop management, pest control, soil health, irrigation, and marketing, ultimately boosting agricultural productivity.
+Friendly-Farming is a comprehensive platform designed to address various agricultural challenges faced by farmers and clients. The platform aims to enhance crop management, pest control, soil health, irrigation, and marketing, ultimately boosting agricultural productivity.
 
 ![Alt text](KhetiMitr,UIUX.jpeg)
 
